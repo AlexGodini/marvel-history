@@ -21,7 +21,7 @@ body {
 	font-weight: normal;
 	color: var(--k);
 	overflow-x: hidden;
-	background-image: url(../img/Fon/PNG/04.jpg);
+	background-image: url(https://github.com/AlexGodini/marvel-history/blob/main/img/Fon/PNG/04.jpg);
 	background-attachment: fixed;
 	user-select: none;
 }
