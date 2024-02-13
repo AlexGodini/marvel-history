@@ -22,10 +22,7 @@ body {
 	color: var(--k);
 	overflow-x: hidden;
 	background-image: url(../img/Fon/PNG/04.jpg);
-	height: 100%;
-	margin: 0;
 	background-attachment: fixed;
 	user-select: none;
-	background-size: 100% 100%;
 }
 /* ./index.css */
